@@ -1,0 +1,5 @@
+* Initialized feedback categories
+
+Definition of initialized feedback categories and construction of the free
+initialized feedback category over some symmetric monoidal category. This is
+work in progress complementing [[https://github.com/mroman42/combs-feedback]].
